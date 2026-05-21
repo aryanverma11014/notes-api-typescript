@@ -14,3 +14,6 @@ A simple REST API  built with TypeScript and Express for learning backend develo
 
 #Purpose 
 Understanding the basics of backend through this project 
+
+#Status 
+In development 
