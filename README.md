@@ -55,4 +55,4 @@ PUT /notes/:id
 
 DELETE /notes/:id
 
-Authentication, Hashing, Error handling are in development 
+Authentication, Hashing and Error handling are in development 
