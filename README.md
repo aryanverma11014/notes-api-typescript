@@ -54,3 +54,5 @@ PUT /notes/:id
 ### Delete Note
 
 DELETE /notes/:id
+
+Authentication, Hashing, Error handling are in development 
